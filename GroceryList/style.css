@@ -1,0 +1,57 @@
+h1 {
+  /* color: cornflowerblue; */
+  width: 50%;
+  height: auto;
+  text-align: center;
+}
+
+.header {
+  /* background-color: lightpink; */
+  font-family: Arial, Helvetica, sans-serif;
+  width: 50%;
+  height: 45px;
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+}
+
+ 
+.groceries {
+  display: block;
+  /* background-color: antiquewhite; */
+  width: 50%;
+  height: 50%;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+.section1 {
+    box-sizing: border-box;
+    float: right;
+    width: 50%;
+    padding: 10px;
+    height: 200px;
+    margin-right: auto;
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+.section2 {
+  box-sizing: border-box;
+    float: right;
+    width: 50%;
+    padding: 10px;
+    height: 200px;
+    margin-right: auto;
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+img {
+
+    height: 150px;
+    border: 3px solid black;
+    margin: 30px;
+ 
+}
+
